@@ -1,1 +1,1 @@
-# gallery-array-sass
+#light-box
